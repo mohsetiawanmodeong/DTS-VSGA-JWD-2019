@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Radio Button</title>
+</head>
+
+<body>
+    <h3>Pilih Jenis Kelamin</h3>
+    <form>
+        <input type="radio" name="gender" value="laki-laki"> Laki-Laki<br>
+        <input type="radio" name="gender" value="perempuan"> Perempuan<br>
+        <input type="radio" name="gender" value="lainnya"> Lainnya<br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>
